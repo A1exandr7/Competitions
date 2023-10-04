@@ -11,4 +11,5 @@
 
 ### Tags:
 Логистическая регрессия, дисбаланс классов, дерево решений градиентный бустинг, feature engineering
-![Severstal_production_lb](https://github.com/A1exandr7/Competitions/assets/114138239/e206ad79-7f11-4aa0-8f04-a437ca65a0c8)
+![image](https://github.com/A1exandr7/Competitions/assets/114138239/c91978e5-b19c-4f79-86d8-a587bf70a183)
+
