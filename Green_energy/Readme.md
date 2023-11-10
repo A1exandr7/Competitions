@@ -14,4 +14,5 @@
 
 ### Tags:
 Линейная регрессия, временные ряды, градиентный бустинг, feature engineering
-![image](https://github.com/A1exandr7/Competitions/assets/114138239/5608ab73-73f2-4885-bcae-ad976ed59da2)
+![image](https://github.com/A1exandr7/Competitions/assets/114138239/48bb3592-e5b4-4459-b5be-6de9727c0cde)
+
